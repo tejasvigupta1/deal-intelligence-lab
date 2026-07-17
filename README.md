@@ -125,7 +125,6 @@ deal-intelligence-lab/
     └── options-portfolio/
     └── options-portfolio/
 ---
-
 ## Portfolio Purpose
 
 This repository serves as supporting evidence for the financial modeling, transaction analysis and automation projects referenced on my resume.
@@ -133,7 +132,6 @@ This repository serves as supporting evidence for the financial modeling, transa
 The portfolio is designed to demonstrate both traditional investment banking capabilities and the practical use of technology to improve analyst productivity.
 
 ---
-
 ## Contact
 
 **LinkedIn:** https://www.linkedin.com/in/tejasvigupta1
@@ -141,7 +139,6 @@ The portfolio is designed to demonstrate both traditional investment banking cap
 **Email:** tejasvigupta28@yahoo.com
 
 ---
-
 ## Disclaimer
 
 This repository is intended for educational, recruiting and portfolio purposes only.
