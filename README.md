@@ -123,8 +123,23 @@ deal-intelligence-lab/
     ├── blackline-lbo/
     ├── treasury-hedging-workbook/
     └── options-portfolio/
-    └── options-portfolio/
+```
+
+Each project folder contains a dedicated `README.md` explaining:
+
+- Project objective
+- Business or investment question
+- Analytical methodology
+- Financial framework
+- Technology stack
+- Deliverables
+- Skills demonstrated
+- Project status
+
+Additional supporting materials may include screenshots, model outputs, methodology notes, workflow diagrams and sanitized sample files.
+
 ---
+
 ## Portfolio Purpose
 
 This repository serves as supporting evidence for the financial modeling, transaction analysis and automation projects referenced on my resume.
@@ -132,6 +147,7 @@ This repository serves as supporting evidence for the financial modeling, transa
 The portfolio is designed to demonstrate both traditional investment banking capabilities and the practical use of technology to improve analyst productivity.
 
 ---
+
 ## Contact
 
 **LinkedIn:** https://www.linkedin.com/in/tejasvigupta1
@@ -139,6 +155,7 @@ The portfolio is designed to demonstrate both traditional investment banking cap
 **Email:** tejasvigupta28@yahoo.com
 
 ---
+
 ## Disclaimer
 
 This repository is intended for educational, recruiting and portfolio purposes only.
