@@ -1,117 +1,128 @@
 # BlackLine Take-Private LBO
 
+> Can a financial sponsor take BlackLine private and achieve
+> target returns through leverage, margin expansion and
+> multiple expansion while sustaining the capital structure?
+
+**Status:** Version 1 complete | **Type:** LBO
+
+---
+
 ## Objective
 
-Evaluate the feasibility of a sponsor-led take-private transaction for BlackLine using a leveraged buyout framework.
+Evaluate the feasibility of a sponsor-led take-private
+transaction for BlackLine Inc. (NASDAQ: BL) using a leveraged
+buyout framework over a five-year investment period.
 
 ---
 
-## Investment Question
+## Methodology
 
-Can a financial sponsor achieve target returns through leverage, operational improvements and multiple expansion while maintaining a sustainable capital structure?
-
----
-
-## Transaction Overview
-
-Transaction Type:
-- Sponsor-backed leveraged buyout
-
-Target:
-- BlackLine Inc. (NASDAQ: BL)
-
-Analysis Horizon:
-- 5-year investment period
+1. Sources and uses of funds, and purchase price allocation
+2. Capital structure sizing across a revolving credit
+   facility, Term Loan A, Term Loan B and optional
+   subordinated debt
+3. Five-year operating model with revenue growth and margin
+   assumptions by case
+4. Debt amortization schedule with cash sweep
+5. Exit valuation on an EV/EBITDA basis
+6. Sponsor returns via IRR, MOIC and an equity value
+   creation bridge
+7. Sensitivity analysis across the primary value drivers
 
 ---
 
-## LBO Framework
+## Key Assumptions
 
-The model incorporates:
-
-- Sources and Uses of Funds
-- Debt Financing Structure
-- Purchase Price Allocation
-- Operating Model Projections
-- Debt Amortization Schedule
-- Exit Multiple Analysis
-- Sponsor Returns Analysis
-- Sensitivity Analysis
-
----
-
-## Capital Structure
-
-Debt Instruments Included:
-
-- Revolving Credit Facility
-- Term Loan A
-- Term Loan B
-- Optional Subordinated Debt
-
-Key Metrics:
-
-- Entry EV / EBITDA
-- Debt / EBITDA
-- Interest Coverage
-- Debt Paydown Profile
+| Assumption | Value | Basis |
+|-----------|-------|-------|
+| Entry share price | $[  ] | [premium to unaffected price] |
+| Entry EV / EBITDA | [  ]x | [trading comps / precedents] |
+| Total leverage at close | [  ]x EBITDA | [market convention for software LBOs] |
+| Equity contribution | [  ]% | [balance of sources] |
+| Revenue CAGR (base) | [  ]% | [consensus / historical] |
+| Exit EBITDA margin | [  ]% | [expansion from  [  ]% at entry] |
+| Exit multiple | [  ]x | [entry multiple held flat / expanded] |
+| Blended cost of debt | [  ]% | [SOFR plus spread] |
+| Hold period | 5 years | Standard sponsor hold |
 
 ---
 
-## Return Analysis
+## Results
 
-Sponsor returns are evaluated using:
+| Metric | Base Case | Upside | Downside |
+|--------|-----------|--------|----------|
+| IRR | [  ]% | [  ]% | [  ]% |
+| MOIC | [  ]x | [  ]x | [  ]x |
+| Exit equity value | $[  ]M | $[  ]M | $[  ]M |
+| Leverage at exit | [  ]x | [  ]x | [  ]x |
+| Peak interest coverage | [  ]x | — | — |
 
-- Internal Rate of Return (IRR)
-- Multiple on Invested Capital (MOIC)
-- Equity Value Creation Bridge
-- Exit Scenario Analysis
+**Value creation bridge (base case):** [  ]% of equity value
+creation from deleveraging, [  ]% from EBITDA growth,
+[  ]% from multiple expansion.
+
+**Conclusion:** [One or two sentences. Does the deal clear a
+typical 20-25% sponsor hurdle, and what has to be true for
+it to work?]
 
 ---
 
 ## Sensitivities
 
-The model evaluates:
+Returns were tested across revenue growth, EBITDA margin
+expansion, exit multiple, deleveraging pace and interest
+rates.
 
-- Revenue Growth
-- EBITDA Margin Expansion
-- Exit Multiple Expansion
-- Deleveraging Pace
-- Interest Rate Changes
+The base case IRR is most sensitive to [  ], where a
+[  ] change moves returns by approximately [  ] basis
+points.
 
 ---
 
 ## Deliverables
 
-- Sources & Uses Schedule
-- Debt Schedule
-- Operating Model
-- Returns Analysis
-- Sensitivity Tables
-- Investment Recommendation
+| File | Description |
+|------|-------------|
+| [`models/`](models) | LBO model workbook, debt schedule, operating model |
+| [`outputs/`](outputs) | Returns summary, sensitivity tables, sources and uses |
+| [`screenshots/`](screenshots) | Returns grid, capital structure, debt paydown |
 
 ---
 
 ## Technology Stack
 
 - Microsoft Excel
-- Financial Modeling
-- LBO Modeling
-- Sensitivity Analysis
+- LBO modeling
+- Sensitivity and scenario analysis
 
 ---
 
 ## Skills Demonstrated
 
-- Leveraged Buyouts
-- Debt Modeling
-- Capital Structure Analysis
-- Sponsor Returns Analysis
-- Sensitivity Analysis
-- Private Equity Modeling
+- Leveraged buyout modeling
+- Debt schedule construction and cash sweep mechanics
+- Capital structure analysis
+- Sponsor returns analysis
+- Private equity investment evaluation
 
 ---
 
-## Status
+## Limitations
 
-Version 1 complete.
+- The model assumes a single-tranche exit at a fixed multiple
+  and does not model dividend recapitalizations or bolt-on
+  acquisitions.
+- Operating assumptions are derived from public filings and
+  consensus estimates; no management projections were used.
+- Financing terms are illustrative and reflect indicative
+  market pricing rather than committed terms.
+- The analysis does not model transaction fees beyond
+  [  ], nor tax attributes such as NOL carryforwards.
+
+---
+
+*Prepared for portfolio purposes. Figures are illustrative
+and do not constitute investment advice.*
+
+[Back to Deal Intelligence Lab](../../README.md)
