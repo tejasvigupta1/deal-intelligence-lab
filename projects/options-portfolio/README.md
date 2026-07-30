@@ -175,7 +175,7 @@ that the market would stay range-bound.
 ## Skills Demonstrated
 
 - Derivatives structuring and options pricing
-- Delta hedging and position risk management
+- Delta monitoring and options position management
 - Performance attribution and counterfactual analysis
 - Risk governance and post-trade review
 
