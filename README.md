@@ -2,11 +2,11 @@
 
 ## About
 
-Welcome to my investment banking project portfolio.
+Welcome to my finance and markets project portfolio.
 
-This repository documents financial models, transaction analyses and workflow automation projects developed during my preparation for investment banking recruiting.
+This repository documents financial models, transaction analyses, markets and risk projects, and workflow automation work developed through recruiting preparation and independent analysis.
 
-The objective is to demonstrate practical application of valuation, financial modeling, M&A analysis, leveraged buyout modeling, treasury risk management and automation through fully documented projects.
+The objective is to demonstrate practical application of valuation, financial modeling, M&A analysis, leveraged buyout modeling, derivatives, treasury risk management and automation through fully documented projects.
 
 Each project includes a dedicated project overview, methodology, analytical framework, deliverables, technologies used and skills demonstrated.
 
@@ -14,7 +14,29 @@ Each project includes a dedicated project overview, methodology, analytical fram
 
 ## Featured Projects
 
-### [AI-Enabled M&A Deal Automation Platform](projects/mna-deal-automation)
+### Markets and Risk
+
+#### [Treasury Hedging Workbook](projects/treasury-hedging-workbook)
+
+A treasury risk-management workbook analyzing interest-rate exposure and derivative hedging strategies.
+
+The project evaluates hedge effectiveness, rate scenarios and the financial impact of alternative treasury-management strategies.
+
+**Key areas:** Treasury management, interest-rate risk, derivatives, hedging and scenario analysis.
+
+---
+
+#### [Simulated S&P 500 Options Portfolio](projects/options-portfolio)
+
+A simulated options portfolio designed to evaluate derivatives pricing, portfolio construction and risk-return characteristics.
+
+The project incorporates options-based strategies, portfolio performance tracking and risk analysis.
+
+**Key areas:** Options, derivatives, portfolio analysis, risk management and performance attribution.
+
+---
+
+#### [AI-Enabled M&A Deal Automation Platform](projects/mna-deal-automation)
 
 An automated transaction-analysis workflow designed to extract key terms from SEC merger filings and populate a review-ready merger model.
 
@@ -28,7 +50,9 @@ The platform was built using Python and the Claude API and validated across 7 pu
 
 ---
 
-### [SpaceX Post-IPO Valuation & Aftermarket Analysis](projects/spacex-post-ipo-analysis)
+### Transactions and Valuation
+
+#### [SpaceX Post-IPO Analysis](projects/spacex-post-ipo-analysis)
 
 A post-IPO valuation and performance analysis incorporating discounted cash flow, sum-of-the-parts valuation, trading comparables, IPO pricing and aftermarket performance attribution.
 
@@ -38,7 +62,7 @@ The project evaluates SpaceX through multiple valuation methodologies and analyz
 
 ---
 
-### [SpaceX-Cursor Acquisition Analysis](projects/spacex-cursor-acquisition)
+#### [SpaceX–Cursor Acquisition Analysis](projects/spacex-cursor-acquisition)
 
 A strategic acquisition analysis evaluating the potential acquisition of Cursor by SpaceX.
 
@@ -48,33 +72,13 @@ The project analyzes strategic rationale, transaction valuation, consideration s
 
 ---
 
-### [BlackLine Take-Private LBO](projects/blackline-lbo)
+#### [BlackLine Take-Private LBO](projects/blackline-lbo)
 
 A leveraged buyout analysis evaluating a hypothetical take-private acquisition of BlackLine.
 
 The model analyzes entry valuation, financing structure, debt paydown, operating assumptions, exit valuation and sponsor returns across multiple scenarios.
 
 **Key areas:** LBO modeling, debt schedules, IRR, MOIC, leverage analysis and sensitivity analysis.
-
----
-
-### [Treasury Hedging Workbook](projects/treasury-hedging-workbook)
-
-A treasury risk-management workbook analyzing interest-rate exposure and derivative hedging strategies.
-
-The project evaluates hedge effectiveness, rate scenarios and the financial impact of alternative treasury-management strategies.
-
-**Key areas:** Treasury management, interest-rate risk, derivatives, hedging and scenario analysis.
-
----
-
-### [Simulated S&P 500 Options Portfolio](projects/options-portfolio)
-
-A simulated options portfolio designed to evaluate derivatives pricing, portfolio construction and risk-return characteristics.
-
-The project incorporates options-based strategies, portfolio performance tracking and risk analysis.
-
-**Key areas:** Options, derivatives, portfolio analysis, risk management and performance attribution.
 
 ---
 
@@ -142,9 +146,9 @@ Additional supporting materials may include screenshots, model outputs, methodol
 
 ## Portfolio Purpose
 
-This repository serves as supporting evidence for the financial modeling, transaction analysis and automation projects referenced on my resume.
+This repository serves as supporting evidence for the financial modeling, transaction analysis, derivatives, risk management and automation projects referenced on my resume.
 
-The portfolio is designed to demonstrate both traditional investment banking capabilities and the practical use of technology to improve analyst productivity.
+The portfolio is designed to demonstrate finance capabilities across transactions and markets, together with the practical use of technology to improve analyst productivity.
 
 ---
 
